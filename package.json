@@ -1,0 +1,17 @@
+{
+  "name": "@zgwit/license",
+  "version": "1.0.0",
+  "description": "证书管理器",
+  "main": "index.js",
+  "type": "module",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zgwit/license"
+  },
+  "author": "jason",
+  "license": "MIT"
+}
